@@ -13,6 +13,7 @@ IMAGE 1 FILE
 IMAGE 1 ALT TEXT
 
 `Modern Transit`
+images/transportation/transit.jpg
 
 SMALLER SUB HEAD
 
